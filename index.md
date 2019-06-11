@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## PRUEBA INSTITUCIONAL SEGUNDO PERIODO
 
-You can use the [editor on GitHub](https://github.com/Dahadesserts/Insti2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Daniela Sierra Labrador 11°B
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sientete bienvenido a disfrutar de una página con gran variedad:    Tecnología - anuncuos - robótica
 
-### Markdown
+### Robótica
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://www.muycomputerpro.com/wp-content/uploads/2016/12/robotica.jpg">
 
-```markdown
-Syntax highlighted code block
+-------------------------  COSAS COMO ESTA PODRÁS LOGRAR  ------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+# ANUNCIOS 
+PARA EL DÍA DE HOY ---- 
+<img src="https://i.pinimg.com/236x/b6/7b/fd/b67bfd6c482fcf38d12865800769c55a--fe.jpg"> -----
 
-- Bulleted
-- List
+¿NO TE ANOTJAS DE COMPRAR?
+<img src="https://blogdeofertas.com/wp-content/uploads/2018/08/photo_2018-08-30_07-49-07.jpg">
 
-1. Numbered
-2. List
+## 
+### VOLVAMOS A ROBÓTICA
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dahadesserts/Insti2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="https://www.robots.nu/img/uploads/2018/08/24/Robot%20education,%20robot%20onderwijs.jpg">
+............................ Te esperamos de vuelta ..........................................
